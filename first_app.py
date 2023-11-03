@@ -3,7 +3,7 @@
 
 import streamlit
 
-streamlit.title('Fruit House! 🍽️')
+streamlit.title('The King's Special! 🍽️')
 streamlit.header('🫕Breakfast Menu')
 streamlit.text('🥘Omega 3 & Blueberry Oatmeal')
 streamlit.text('🫑Kale, Spinach & Rocket Smoothie')
